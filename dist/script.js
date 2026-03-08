@@ -21,9 +21,9 @@ function renderTasks() {
           </div>
 
           <div class="task__actions">
-            <button class="task__edit-btn"><i class="ri-pencil-line">Edit</i></button>
-            <button class="task__delete-btn"><i class="ri-delete-bin-line">Delete</i></button>
-            <button class="task__save-btn" style="display:none;"><i class="ri-save-line">Save</i></button>
+            <button class="task__edit-btn"><i class="ri-pencil-line"></i></button>
+            <button class="task__delete-btn"><i class="ri-delete-bin-line"></i></button>
+            <button class="task__save-btn" style="display:none;"><i class="ri-save-line"></i></button>
           </div>
       </li>
     `).join("");

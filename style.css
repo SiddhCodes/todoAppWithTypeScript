@@ -44,6 +44,7 @@ i {
   color: white;
   border: none;
   border-radius: 4px;
+  cursor: pointer;
 }
 
 .task__list {
@@ -78,6 +79,7 @@ i {
   color: white;
   border: none;
   border-radius: 4px;
+  cursor: pointer;
 }
 .task__list .task__item .task__actions .task__delete-btn {
   padding: 0.4rem 0.8rem;
@@ -87,6 +89,7 @@ i {
   color: white;
   border: none;
   border-radius: 4px;
+  cursor: pointer;
 }
 .task__list .task__item .task__actions .task__save-btn {
   display: none;
@@ -97,4 +100,5 @@ i {
   color: white;
   border: none;
   border-radius: 4px;
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */
